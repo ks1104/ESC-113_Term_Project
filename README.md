@@ -1,2 +1,3 @@
 # ESC-113_Term_Project
-to understand enzyme kinetics
+contains two code files: 'enzyme_gui.m'(main file) and 'rk4_solver.m'(function file)
+one pdf for propositon, manual, and final presentation respectively
